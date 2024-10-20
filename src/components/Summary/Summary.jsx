@@ -7,14 +7,15 @@ export const Summary = () => {
     return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi! I'm Anju</h1> 
+            <h1 className={styles.title}>Hi, I'm Anju</h1> 
             <p className={styles.description}>
-                I'm currently a Master's in Computer Science student 
-                at the University of Massachusetts, Amherst. I specialize in Machine Learning, Computer Vision, 
-                and NLP, with a passion for applying these technologies to solve real-world problems. 
-                I also enjoy developing clean and intuitive web applications with robust, efficient backend that ensure smooth performance.
+                II'm a Master's student in Computer Science at UMass Amherst, 
+                studying Machine Learning, Computer Vision, NLP and software engineering.
+                I’m dedicated to making a positive difference in the world by developing innovative solutions 
+                that enhance people's lives and bring joy to their everyday experiences.<br/><br/>
 
-                Feel free to look through my experience below and contact me if you would like to collaborate!
+                If you’re looking for a passionate software engineer with a strong background in machine learning to join your team, 
+                or if you share my enthusiasm and passion to make a real difference in life around you, feel free to contact me!
             </p>  
             <a href="mailto:asanthoshkum@umass.edu" className={styles.contactBtn}>Contact Me</a>
         </div>  
